@@ -13,7 +13,7 @@ This script will clone a copy of the `netbox-community/devicetype-library` repos
 1. This script is written in Python, so lets setup a virtual environment.
 
 ```
-git clone https://github.com/netbox-community/Device-Type-Library-Import.git
+git clone https://github.com/fatman00/Device-Type-Library-Import.git
 cd Device-Type-Library-Import
 python3 -m venv venv
 source venv/bin/activate
